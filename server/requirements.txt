@@ -1,0 +1,17 @@
+langchain
+langchain-community
+fastapi[standard]
+python-dotenv
+celery
+redis
+openai
+bs4
+requests
+langchain
+chromadb
+google-generativeai
+langchain-google-genai
+langchain-openai
+langchain-chroma
+streamlit 
+requests
